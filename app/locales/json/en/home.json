@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Brainrot Craft - The Ultimate Meme Sandbox Adventure",
+    "description": "Craft, Merge, Build, and Survive in a World Gone Viral. Play Brainrot Craft now!"
+  },
+  "hero": {
+    "title": "Craft Brainrot",
+    "subtitle": "The Ultimate Meme Sandbox Adventure. Craft, Merge, Build, and Survive in a World Gone Viral."
+  },
+  "headline": {
+    "title": "Unleash Your Inner Meme Lord. What Will You Create?",
+    "description": "Dive into the chaotic world of Brainrot, where logic takes a backseat to pure, unadulterated meme-crafting madness. Whether you're merging elements to birth new viral sensations or building epic structures in a blocky sandbox, the only limit is your imagination (and your tolerance for the absurd)."
+  },
+  "howToPlay": {
+    "title": "How to Play",
+    "items": [
+      {
+        "icon": "🧪",
+        "title": "MERGE & DISCOVER",
+        "description": "Combine everyday items with iconic internet memes. Start with basic elements and unlock thousands of hilarious and bizarre creations. Can you craft the ultimate Brainrot?"
+      },
+      {
+        "icon": "🏗️",
+        "title": "BUILD & SURVIVE",
+        "description": "Explore vast, pixelated worlds. Gather resources, build your base, and fend off strange, meme-inspired creatures. From a simple shelter to a sprawling meme empire."
+      },
+      {
+        "icon": "🎭",
+        "title": "SUMMON & COLLECT",
+        "description": "Uncover the secrets of the Brainrot universe. Trade with mysterious sellers to summon unique creatures and characters. Collect them all and become the master of the meme-verse."
+      }
+    ]
+  },
+  "features": {
+    "title": "Game Features",
+    "items": [
+      {
+        "icon": "♾️",
+        "title": "无限创意合成",
+        "description": "不断扩展的炼金系统，拥有数千种可能组合"
+      },
+      {
+        "icon": "🌍",
+        "title": "沙盒生存模式",
+        "description": "广阔的开放世界冒险，充满秘密与危险"
+      },
+      {
+        "icon": "👾",
+        "title": "独特自定义生物",
+        "description": "遇到并收集十几种奇特的模因生物"
+      },
+      {
+        "icon": "📱",
+        "title": "随时随地游戏",
+        "description": "支持安卓、iOS和网页浏览器，可离线游戏"
+      },
+      {
+        "icon": "🆓",
+        "title": "完全免费游戏",
+        "description": "无付费墙，无隐藏费用，纯粹不间断的游戏体验"
+      },
+      {
+        "icon": "🔄",
+        "title": "分享你的创作",
+        "description": "一键分享你最疯狂的创作给朋友"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is Brainrot Craft?",
+        "answer": "Brainrot Craft is the ultimate meme sandbox adventure where you can craft, merge, build, and survive in a world gone viral. It combines alchemy-style crafting with sandbox survival gameplay."
+      },
+      {
+        "question": "How do I play the game?",
+        "answer": "Simply scroll up to the game section above and start playing immediately in your browser! No download required."
+      },
+      {
+        "question": "Is Brainrot Craft free to play?",
+        "answer": "Yes! Brainrot Craft is absolutely free-to-play with no paywalls or hidden fees. Just pure, uninterrupted gameplay."
+      },
+      {
+        "question": "How does the crafting system work?",
+        "answer": "Start with basic elements and combine them with iconic internet memes to unlock thousands of hilarious and bizarre creations. The system is ever-expanding with new combinations added regularly."
+      },
+      {
+        "question": "What platforms is it available on?",
+        "answer": "Brainrot Craft is available on web browsers, Android, and iOS devices. You can play anywhere, anytime with offline support."
+      },
+      {
+        "question": "Can I share my creations?",
+        "answer": "Absolutely! Share your most unhinged creations with friends in one click. Show off your meme masterpieces to the world."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Choose Your Brainrot Adventure",
+    "button": "Play Craft Brainrot Now!",
+    "subtitle": "Instant-play meme merging. No download required."
+  },
+  "footer": {
+    "copyright": "© 2025 Craft Brainrot",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "contact": "Contact"
+  },
+  "header": {
+    "play": "Play",
+    "faq": "FAQ",
+    "classes": "Classes",
+    "cultistStronghold": "Cultist Stronghold",
+    "guide": "Guide",
+    "scripts": "Scripts",
+    "story": "Story",
+    "wiki": "Wiki"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(pnpm build)",
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash",
+      "Glob",
+      "Grep",
+      "LS",
+      "Read",
+      "Edit",
+      "MultiEdit",
+      "Write",
+      "WebFetch",
+      "WebSearch",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)"
+    ],
+    "deny": []
+  }
+}
