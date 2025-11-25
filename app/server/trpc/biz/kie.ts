@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { t } from "../router";
+import { t } from "../init";
 import { getRequestContext } from "~/server/cf.server";
 import {
   createGuestTask,
