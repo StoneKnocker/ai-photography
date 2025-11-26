@@ -9,7 +9,7 @@ export default function Footer() {
   return (
     <footer
       className={cn(
-        "bg-slate-800/80 backdrop-blur-md border-t border-slate-700/30 text-gray-200 py-6"
+        "bg-gray-100/80 backdrop-blur-md border-t border-gray-200 text-gray-700 py-6"
       )}
     >
       <div className="container mx-auto px-4">
@@ -30,20 +30,20 @@ export default function Footer() {
           <div className="flex space-x-6 mt-4 md:mt-0">
             <LocalizedNavLink
               to="/privacy-policy"
-              className="text-sm hover:text-white transition-colors"
+              className="text-sm hover:text-gray-900 transition-colors"
             >
               {t("privacy")}
             </LocalizedNavLink>
             <LocalizedNavLink
               to="/terms-and-conditions"
-              className="text-sm hover:text-white transition-colors"
+              className="text-sm hover:text-gray-900 transition-colors"
             >
               {t("terms")}
             </LocalizedNavLink>
           </div>
         </div>
 
-        <div className="text-center mt-4 text-sm text-gray-400">
+        <div className="text-center mt-4 text-sm text-gray-500">
           © {new Date().getFullYear()} {import.meta.env.VITE_SITE_NAME}. All
           rights reserved.
         </div>
