@@ -1,160 +1,142 @@
 ---
-title: Heyimg 利用規約｜最新AI搭載のオンライン画像生成ツール
+title: 利用規約｜最新AI搭載のオンライン画像生成ツール
 date: 2025-01-01
-description: Heyimgの利用規約をご確認ください。当サービスの利用条件やポリシーについて詳しく説明しています。
+description: Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.
 ---
 
 # 利用規約
 
-下記は、HeyImg（以下「当社」といいます。）が提供する「HeyImg」（以下「本サービス」といいます。）の利用に関して、登録ユーザーに同意していただく必要のある事柄を記載しています。
-
-本サービスをご利用になる際には、この「HeyImg 利用規約」（以下「本規約」といいます。）が適用されます。なお、本規約については、登録希望者が利用登録した時点で同意されたものとさせていただきますので、ご利用の前に必ずお読みください。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## 第 1 条（総則・適用範囲）
 
-1. 本規約は、当社が登録ユーザーに提供・運営する本サービスについて、登録ユーザーと当社の間の本サービス利用に関する基本的な事項を規定します。
-2. 本規約は、本サービスの利用に関し、当社及び登録ユーザーに対して適用されます。
-3. 当社が、当社ウェブサイト上に本サービスに関して個別規定、追加規定、本サービスに関する説明書き、本サービスに関するＱ＆Ａその他本サービスに関する利用条件等（以下「個別規定等」といいます。）を掲載する場合、それらは本規約の一部を構成するものとし、これらが本規約と抵触する場合には、当該個別規定等が優先されるものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
 
 ## 第 2 条（定義）
 
-本規約において、次の各号に掲げる用語は、当該各号に定めるとおり定義します。
-
-1. **サービス利用契約**: 登録ユーザーが本サービスを利⽤するに際し、登録ユーザー及び当社との間に発生する本サービスの利⽤に関する契約関係をいいます。
-2. **登録希望者**: 本サービスの利⽤を希望する法人、団体又は個人をいいます。
-3. **登録ユーザー**: 本規約を承認の上、当社と「サービス利用契約」を締結した法人、団体又は個人をいいます。
-4. **利用登録**: 第３条に規定する方法に従って登録希望者が行う、本サービスの登録ユーザーとしての登録をいいます。
-5. **登録情報**: 登録希望者及び登録ユーザーが利用登録時に登録した当社が定める情報、本サービス利用中に当社が必要と判断して登録を求めた情報及びこれらの情報について登録ユーザー自身が追加、変更を行った場合の当該情報をいいます。
-6. **送信データ**: 登録ユーザーが、本サービスを通じて入力し又は送信する情報（画像データ、画像処理用入力データその他のデータを含みますがこれに限られません。）をいいます。
-7. **当社提供コンテンツ**: 登録ユーザーが本サービスを通じて取得した情報の一切（画像データその他のデータを含みますがこれに限られません。）をいいます。
-8. **処理済画像**: 当社提供コンテンツのうち、本サービスにより処理された画像データその他当社が別途定める情報をいいます。
-9. **登録ユーザー ID**: パスワードと組み合わせて、登録ユーザーとその他の者とを識別するために⽤いられる符号をいいます。
-10. **パスワード**: 登録ユーザー ID と組み合わせて、登録ユーザーとその他の者とを識別するために⽤いられる符号をいいます。
-11. **アカウント**: 登録ユーザーとその他の者を識別するために、当社が登録し、登録ユーザーに対して発行している登録ユーザー ID 及びパスワードをいいます。
-12. **当社ウェブサイト**: 当社が運営するウェブサイト（理由の如何を問わず、当社のウェブサイトのドメイン又は内容が変更された場合は、当該変更後のドメインを含みます。）をいいます。
-13. **有料会員**: 当社ウェブサイト上に定める方法に従って有料会員登録を行った登録ユーザーをいいます。
-14. **知的財産権**: 著作権（著作権法第２７条及び第２８条の権利を含みます。）、特許権、実用新案権、商標権、意匠権その他の知的財産権（それらの権利を取得し、又はそれらの権利につき登録等を出願する権利を含みます。）をいいます。
-15. **「法令等」**: 法律、政令、通達、規則、命令、条例、ガイドラインその他の規制の総称をいいます。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## 第 3 条（登録）
 
-1. 登録希望者は、本規約を遵守することに同意し、かつ当社の定める方法で登録情報を当社に提供することにより、当社に対し、本サービスの利用の登録を申請することができ、当社が定める登録手続きが完了した場合、登録希望者の登録ユーザーとしての登録が完了したものとします。
-2. 前項に定める登録の完了時に、本規約に従ったサービス利用契約が登録ユーザーと当社の間に成立し、登録ユーザーは本サービスを利用することができるようになります。
-3. 当社は、第１項に基づき登録を申請した者が、次の各号のいずれかの事由に該当する場合は、登録を拒否することがあります。
-   1. 当社に提供された登録情報の全部又は一部につき虚偽、誤記又は記載漏れがあった場合
-   2. 当該登録希望者が、本サービス利用に際して、既に退会処分等のサービス利用停止措置を受けた又は受けている場合
-   3. 未成年者、成年被後見人、被保佐人又は被補助人のいずれかであり、法定代理人、後見人､保佐人又は補助人の同意等を得ていなかった場合
-   4. 反社会的勢力等（暴力団、暴力団員、右翼団体、反社会的勢力、その他これに準ずる者を意味します。以下同じ。）である、又は資金提供その他を通じて反社会的勢力等の維持、運営又は経営に協力又は関与する等反社会的勢力等との何らかの交流又は関与を行っていると当社が合理的に判断した場合
-   5. その他、当社が登録を適当でないと合理的に判断した場合
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+   1. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt.
+   2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   3. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 4 条（登録情報の変更）
 
-1. 登録ユーザーは、登録情報に変更があった場合は、速やかに、当社の定める方法により、当該変更事項を当社に通知するものとします。
-2. 前項の変更を怠ったことにより当社からの通知が不到達となった場合、当該通知は通常到達すべき時に到達したとみなされるものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 5 条（登録ユーザー ID 及びパスワードの管理）
 
-1. 当社は利用登録完了時に、登録ユーザーに対して、当社が別途定めるご利用プランに応じてアカウントを発行します。
-2. 登録ユーザーは、自己の責任において、登録ユーザー ID 及びパスワードを管理及び保管するものとし、これを当社が許諾しない第三者に利用させたり、貸与、譲渡、名義変更、売買等をしたりしてはならないものとします。当社は、当該登録ユーザー ID 及びパスワードの一致を確認した場合、当該登録ユーザー ID 及びパスワードを保有するものとして登録された登録ユーザーが本サービスを利用したものとみなし、また、登録ユーザー ID 又はパスワードの利用者による本規約違反行為は、登録ユーザー本人の違反とみなします。
-3. 登録ユーザー ID 又はパスワードの管理不十分、使用上の過誤、第三者の使用その他登録ユーザーの責めに帰すべき事由による損害の責任は登録ユーザーが負うものとします。
-4. 登録ユーザーは、登録ユーザー ID 又はパスワードが盗まれたり、第三者に使用されたりしていることが判明した場合には、直ちにその旨を当社に通知するとともに、当社からの指示に従うものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 6 条（本サービスの利用条件及び利用方法）
 
-1. 登録ユーザーは、本規約又は当社が別に定めるところにより、本規約の目的の範囲内でかつ本規約に違反しない範囲内で、本サービスを利用することができます。なお、本サービスには無料プランと有料プランが存在し、登録ユーザーが選択したプランにより、サービスの利用回数、範囲等のサービス内容が異なります。その詳細は、当社ウェブサイトに掲示する等当社の指定する方法で定めます。
-2. 本サービスの提供を受けるために必要な端末、ソフトウェアその他の機器、通信回線その他の通信環境等の準備及び維持は、登録ユーザーの費用と責任において行うものとします。
-3. 登録ユーザーは、本サービスを利用するにあたり、個人情報保護法その他の適用される法令に従い、かつ、第三者の著作権、肖像権、プライバシー権等の権利を侵害しないように配慮するものとし、適用される法令において要求される措置をとるものとします。
-4. 登録ユーザーは、商用、非商用を問わず、自己の操作により生成された処理済画像を自ら利用することができます。また、登録ユーザーは、処理済画像を本サービス上で公表することができます。
-5. 登録ユーザーは、当社に対して、送信データが著作権法を含む法令等（自らの業種に適用される自主規制を含みます。）及び本規約に違反していないことを表明し保証するものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+5. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
 
 ## 第 7 条（無料プラン）
 
-登録ユーザーは、無料プランのサービス（以下「無料サービス」といいます。）を利用することができます。無料サービスの内容、その他の事項は、別途当社が定め、本サービスの画面若しくは当社サイトにおいて表示し又は登録ユーザーに通知します。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## 第 8 条（有料プラン）
 
-1. 登録ユーザーは、当社が別途定める利用料金を支払うことより、有料プランのサービス（以下「有料サービス」といいます。）を利用することができます。有料サービスの内容、利用料金の金額、決済方法その他の事項は、別途当社が定め、本サービスの画面若しくは当社サイトにおいて表示し又は登録ユーザーに通知します。
-2. 有料会員が利用料金の支払を遅滞した場合、有料会員は年１４．６％の割合による遅延損害金を当社に支払うものとします。
-3. 当社は、当社が必要と認めた場合は、利用料金の金額又は金額プランを変更することができます。その場合、当社は、変更の効力発生日の２週間前までに、変更する旨及び変更後の内容とその効力発生日を、当社サイト又は本サービス上に掲示し、又は登録ユーザーに電子メール等の電磁的記録方法で通知します。ただし、法令上登録ユーザーの同意が必要となる内容の変更の場合は、当社は、当社が定めた方法で登録ユーザーの同意を得るものとします。
-4. 有料サービスの利用期間の途中で、当社の定めるところに従い有料会員から当社に対する有料サービスの利用停止の通知があった場合には、既に当社に対して支払い済みの利用料金に対応する利用期間が終了した時点で、有料会員登録は終了し、無料プランの登録ユーザーに切り替わるものとします。既に当社に対して支払い済みの利用料金に対応する利用期間中は、有料会員登録は終了せず、当該期間にかかる利用料金の返金は行いません。
-5. 前項の他、当社は当社が別途定める場合を除き、利用料金の返金は行いません。
-6. 当社は、有料サービス、その他本サービスの利用に関する支払いの決済及び情報処理に、第三者決済処理サービスを利用する場合があります。当社は、第三者決済処理サービスの利用に起因し又は関連する論争、クレーム、訴訟、権利侵害又は損害について、当社に故意又は重過失がない限り、責任を負わないものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+6. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 9 条（禁止行為）
 
-登録ユーザーは、本サービスの利用にあたり、以下の各号のいずれかに該当する行為をしてはなりません。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-1. 法令に違反する行為又は法令違反を助長する行為
-2. 当社その他第三者に対する詐欺又は脅迫行為
-3. 公序良俗に反する行為
-4. 当社又はその他の第三者の知的財産権、肖像権、プライバシーの権利、名誉、その他の権利又は利益を侵害する行為
-5. 本サービスに関して、以下に該当し、又は該当すると当社が判断する送信データ、当社提供コンテンツその他の情報を当社又は第三者に送信又は利用する行為
-   1. 暴力的又は残虐な表現を含む情報
-   2. コンピューター・ウィルスその他の有害なプログラムを含む情報
-   3. 当社又は第三者の名誉又は信用を毀損する表現を含む情報
-   4. 個人情報保護法に違反して取得された情報
-   5. 第三者の著作権、肖像権、プライバシー権等の権利を侵害し、又はそのおそれがある情報
-   6. わいせつな表現を含む情報
-   7. 差別を助長する表現を含む情報
-   8. 自殺、自傷行為を助長する表現を含む情報
-   9. 薬物の不適切な利用を助長する表現を含む情報
-   10. 反社会的な表現を含む情報
-   11. その他当社が不適切と合理的に判断する情報
-6. 本サービスのネットワーク又はシステム等に過度な負荷をかける行為
-7. 本サービスに接続しているシステム全般に権限なく不正にアクセスする行為
-8. 他の登録ユーザー又は第三者に成りすます行為
-9. 本サービスの他の登録ユーザーの登録ユーザー ID 又はパスワードを利用する行為
-10. 当社が指定する組織以外のアカウントを連携させる行為
-11. 反社会的勢力等への利益供与行為
-12. 前各号の行為を直接又は間接に惹起し、又は容易にする行為
-13. その他、前各号に類するものであって当社が不適切と合理的に判断する行為
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+5. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+   1. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt.
+   2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   3. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   6. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   7. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   8. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   9. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   10. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   11. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+6. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+7. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+8. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+9. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+10. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+11. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+12. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+13. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 10 条（サービス利用停止等）
 
-1. 当社は、登録ユーザーが民法第５４２条に定めるもののほか、次の各号の一に該当することが判明した場合、該当事由が社会通念に照らして軽微なものであるかどうかにかかわらず、当社の合理的な裁量により、当該登録ユーザーによる本サービスの利用を一時的に停止し、又は本サービスから退会させることができるものとします。なお、本項の規定に基づく退会措置は、登録ユーザーが次のいずれかに該当することにつき当社の責に帰すべき事由がある場合にも、その行使及び効力を妨げられないものとします
-   1. 本規約のいずれかの条項に違反し、またはその合理的な疑いが生じた場合
-   2. 登録事項に虚偽の事実があることが判明した場合
-   3. 当社が指定する決済方法の不正使用が判明した場合、又は当社が指定する決済サービス会社より決済を停止もしくは無効扱いとされた場合
-   4. 支払停止若しくは支払不能となり、又は破産手続開始、民事再生手続開始、会社更生手続開始、特別清算開始若しくはこれらに類する手続の開始の申立てがあった場合
-   5. 登録ユーザーが死亡した場合又は後見開始、保佐開始若しくは補助開始の審判を受けた場合
-   6. 当社からの問合せその他の回答を求める連絡に対し３０日間以上応答がない場合
-   7. 第３条第３項各号に該当する場合
-   8. 本サービスの運営・保守管理上必要であると当社が判断した場合
-   9. その他前各号に類する事由があると当社が判断した場合
-2. 前項各号のいずれかの事由に該当した場合、登録ユーザーは、当社に対して負っている債務の一切について当然に期限の利益を失い、直ちに当社に対して全ての債務の支払いを行わなければなりません。
-3. 当社は、本条に基づき当社が行った行為により登録ユーザーに生じた損害について、登録ユーザーに何ら帰責性がなく、かつ、当社に故意又は重大な過失がある場合を除き、一切の責任を負わないものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+   1. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt.
+   2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   3. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   6. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   7. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   8. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   9. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 11 条（本サービスの変更、廃止及び中断等）
 
-1. 当社は、登録ユーザーに事前の通知をすることなく、本サービスの内容の全部又は一部を変更することができるものとします。
-2. 当社は、１ヶ月前までに当社が適当と合理的に判断する方法で登録ユーザーに通知することで本サービスの全部又は一部の提供・運営を廃止することができます。ただし、緊急の場合は登録ユーザーへの通知を行わない場合があります。登録ユーザーは、本サービスが前項及び本項に基づいて変更、停止又は中断される可能性のあるものと理解したうえで本サービスを利用するものとします。
-3. 当社は、以下各号の事由が生じた場合には、登録ユーザーに事前に通知することなく、本サービスの提供を停止し、又は、本サービスの一部又は全部を一時的に中断することができます。当社は、本項に基づく中断の原因となった事実の発生につき当社に故意又は過失が認められる場合を除き、責任を負いません。
-   1. 本サービス用のハード・ソフト・通信機器設備等に関わるメンテナンスや修理を定期的又は緊急に行う場合
-   2. 本サービスの改善、修正、変更その他の理由により本サービスを停止して対応する必要がある場合
-   3. 電気通信事業者の役務が提供されない場合
-   4. 天災等の不可抗力により本サービスの提供が困難な場合
-   5. 火災、停電、その他の不慮の事故により本サービスの提供が困難な場合
-   6. 戦争、紛争、動乱、暴動、労働争議等により本サービスの提供が困難な場合
-   7. その他前各号に準じ当社が必要と合理的に判断した場合
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+   1. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt.
+   2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   3. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   6. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+   7. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 12 条（知的財産権等）
 
-1. 本サービスにおいて、当社提供コンテンツ等（処理済画像を除く。）に関する⼀切の知的財産権は当社、又は当社にライセンスを許諾している者に帰属し、本規約に基づく本サービスの使用許諾は、本サービスの使用に必要な範囲を越えて、当社又は当社にライセンスを許諾している者の知的財産権について、使用許諾をすることを意味するものではありません。
-2. 前項の規定にかかわらず、処理済画像については、本条第８項に基づき当該送信データに関する権利を有する者がその知的財産権を有するものとします。
-3. 登録ユーザーは、当社又は当社が指定する者に対して、処理済画像（本規約違反又は著作権侵害が確認されたものを除きます。）を本サービスの提供、アップデートその他の機能改善・機能追加、広告資料の作成又は当社若しくは当社の指定する者及びそれらが提供するサービスのプロモーション、マーケティングその他それらに類する利用用途に無償で自由に利用する権利を付与するとともに、著作者人格権を行使しないものとします。
-4. 前項の規定にかかわらず、当社は、一切の処理済画像を閲覧することができ、また、当社が不適切であると判断した処理済画像を自由に削除又は公開の停止等の措置を講ずることができるものとし、登録ユーザーは、あらかじめ同意するものとします。
-5. 登録ユーザーは、当社の許諾を得ずに、いかなる理由によっても当社又は当社にライセンスを許諾している者の知的財産権を侵害するおそれのある行為（逆アセンブル、逆コンパイル、リバースエンジニアリングを含みますが、これに限定されません。）をしてはならず、また、本サービスのインターフェース、デザイン、レイアウト等を盗用する目的で本サービスを利用してはなりません。
-6. 本サービス上には商標、ロゴ及びサービスマーク等（以下、総称して「商標等」といいます。）が表示される場合がありますが、当社は、登録ユーザーその他の第三者に対し何ら当該商標等を譲渡し、又は使用を許諾するものではありません。
-7. 登録ユーザーは、送信データについて、当社に送信することについての適法な権利を有していること、及びこれらの行為が第三者の権利（第三者の知的財産権、肖像権、人格権、プライバシー権等を含みますがこれらに限られません。）侵害するものではないことについて、当社に対し表明し、保証するものとします。登録ユーザーが、第三者から本サービスの利用に関し権利侵害等の主張その他何らかの請求等を受けた場合、直ちにその旨を当社に通知するとともに、当該請求等について、自らの負担と責任のもとで解決しなければならないものとします。なお、当社が第三者から権利侵害の通報等を受けた場合には、対象の登録ユーザーを特定したうえで、当社の裁量により、対象の登録ユーザーによるサービス利用の停止、送信データ又は処理済画像の削除等必要な措置を講ずることができるものとします。
-8. 送信データに関する知的財産権は登録ユーザー又は登録ユーザーが権利を許諾する第三者に帰属するものとし、本サービスを利用することにより、当社に権利が移転することはありません。
-9. 前項の規定にかかわらず、当社は、自己の裁量により、当社に送信された送信データを閲覧、公開及び削除することができるものとし、登録ユーザーはこのことをあらかじめ同意するものとします。また、登録ユーザーが第三者に権利の許諾を与えている場合、当社が送信データ及び処理済画像を閲覧、公開及び削除することができることについてもあらかじめ当該第三者の承諾を得なければならないものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+3. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+4. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+5. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+6. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+7. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+8. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
+9. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 13 条（個人情報等の取扱い）
 
-1. 当社による登録ユーザーの個人情報の取扱いについては、別途当社プライバシーポリシー の定めによるものとし、登録ユーザーはこのプライバシーポリシーに従って当社が登録ユーザーの個人情報を取扱うことについて同意するものとします。
-2. 本規約の他の規定の定めに拘わらず、当社は、送信データその他登録ユーザーが当社に提供した情報を、当社の裁量で、登録ユーザー等の個人を特定できないように加工した上で（個人情報については、匿名加工情報（個人情報保護法に定義された「匿名加工情報」をいいます。）とすることを含みます。）、本サービスを含む当社のサービスの改良、開発等の目的に利用し、又は第三者へ提供若しくは公開することができるものとし、登録ユーザーはこれに同意するものとします。
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
 
 ## 第 14 条（送信データの送信、修正又は削除）
 
-1. 本サービスに送信された送信データについて、当社が不適当であると判断した場合、当社は、当社の裁量により、本サービスの機能の一部又は全部の利用を停止し、又は送信データの受信を拒否することがあります。
-2. 当社は、送信データが第９条各号の一に該当すると判断した場合、当該送信データを送信した登録ユーザーの承諾を得ることなく、当該送信データの全部又は一部
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
+2. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore.
