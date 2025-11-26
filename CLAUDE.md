@@ -2,146 +2,111 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Architecture Overview
+## Common Development Commands
 
-This is an AI music generation platform called "Eleven Music" built with React Router v7 and deployed to Cloudflare Workers. The application allows users to generate music using AI through text prompts.
-
-- **Frontend**: React 19 with TypeScript, TailwindCSS v4, Radix UI components
-- **Backend**: Cloudflare Workers with D1 database (SQLite) + R2 storage
-- **Routing**: React Router v7 with SSR, file-based routing in `app/routes/`
-- **I18n**: Multi-language support via i18next (English, Chinese, Spanish, Japanese, German, French, Korean, Malay)
-- **Auth**: Better-auth for authentication with Google OAuth
-- **API**: tRPC for type-safe API calls between client/server
-- **Music Generation**: Integration with external AI music service (Suno API)
-
-## Key Directories
-
-- `app/` - Main application code
-  - `components/` - React components (Radix UI-based design system)
-  - `routes/` - React Router routes (file-based routing)
-  - `server/` - Server-side code (Cloudflare Workers context)
-  - `lib/` - Shared utilities and hooks
-  - `locales/` - i18n translations (multiple languages)
-- `workers/` - Cloudflare Worker entry point (`app.ts`)
-- `posts/` - Markdown content for static pages
-- `public/` - Static assets
-- `docs/` - Documentation files
-
-## Development Commands
-
+### Installation
 ```bash
-# Install dependencies
 pnpm install
-
-# Start development server
-pnpm dev
-
-# Build for production
-pnpm build
-
-# Deploy to Cloudflare Workers
-pnpm deploy
-
-# Type checking
-pnpm typecheck
-
-# Generate Cloudflare types
-pnpm cf-typegen
-
-# Preview production build
-pnpm preview
 ```
 
-## Environment Setup
+### Development
+```bash
+pnpm dev              # Start dev server at http://localhost:3000
+pnpm typecheck        # Run TypeScript type checking
+```
+
+### Build & Deploy
+```bash
+pnpm build            # Build production version
+pnpm deploy           # Build and deploy to Cloudflare Workers
+```
+
+### Testing
+```bash
+node tests/test-music-api.js  # Run API tests (requires wrangler dev)
+```
+
+## Architecture Overview
+
+This is a full-stack React Router v7 application deployed to Cloudflare Workers.
+
+### Tech Stack
+- **Frontend**: React 19 + TypeScript + Tailwind CSS v4 + Radix UI (Shadcn/ui)
+- **Backend**: Cloudflare Workers with D1 Database (SQLite)
+- **Routing**: React Router v7 with SSR enabled
+- **API**: tRPC for type-safe API calls
+- **Auth**: Better-auth with Google OAuth
+- **I18n**: i18next with English/Spanish support
+- **Content**: Markdown via content-collections
+
+### Directory Structure
+```
+app/                    # Main application code
+  ├── components/       # React components
+  │   └── ui/          # Shadcn UI components (Radix UI wrapper)
+  ├── routes/          # React Router routes (file-based)
+  │   ├── api/         # API endpoints (auth, trpc, locales)
+  │   └── support-pages/  # Static pages (privacy, terms)
+  ├── server/          # Server-side code
+  │   ├── db/          # Database schemas and queries (Kysely)
+  │   ├── trpc/        # tRPC configuration
+  │   └── *.server.ts  # Server utilities (auth, i18n, cf context)
+  ├── lib/             # Client-side utilities and hooks
+  │   ├── auth-client.ts
+  │   ├── trpc-client.ts
+  │   └── utils.ts
+  └── locales/         # i18n translations
+workers/               # Cloudflare Worker entry (app.ts)
+posts/                 # Markdown content
+public/                # Static assets
+```
+
+### Key Architecture Patterns
+
+1. **Full-stack Type Safety**: Database (Kysely) → tRPC API → React components, all fully typed
+2. **Optional Locale Routes**: `/:locale?` prefix pattern for i18n routes
+3. **Server/Client Separation**: Files ending in `.server.ts` only run on server
+4. **Edge Runtime**: Runs on Cloudflare Workers (no Node.js APIs)
+5. **File-based Routing**: React Router v7 route configuration in `app/routes.ts`
+
+### Route Configuration
+
+Main routes defined in `app/routes.ts`:
+- `/:locale?/...` - All user-facing routes support optional locale prefix
+  - `/` - Homepage
+  - `/privacy-policy` - Privacy policy page
+  - `/terms-and-conditions` - Terms and conditions
+- `/api/auth/*` - Better-auth endpoints
+- `/api/trpc/*` - tRPC API endpoints
+- `/api/locales` - i18n resources API
+
+### Database Access
+
+- Access D1 database via `context.cloudflare.env.DB` in route loaders/actions
+- Use Kysely ORM for type-safe queries
+- Database binding is "DB" (configured in `wrangler.jsonc`)
+
+### Environment Variables
 
 Required environment variables (see `wrangler.jsonc`):
-
 - `BETTER_AUTH_URL` - Auth service URL
 - `GOOGLE_CLIENT_ID` - Google OAuth client ID
-- `GOOGLE_CLIENT_SECRET` - Google OAuth client secret
-- `R2_*` - Cloudflare R2 storage credentials
+- `R2_*` - Cloudflare R2 storage credentials (for media uploads)
 
-Database: Uses Cloudflare D1 (SQLite) with binding `DB`
+Local development uses Cloudflare dev env with real D1 database binding.
 
-## I18n Structure
+### Adding New Features
 
-- Routes support `/:locale?` prefix (optional)
-- Supported languages: English (en), Chinese (zh), Spanish (es), Japanese (ja), German (de), French (fr), Korean (ko), Malay (ms)
-- Translation files in `app/locales/json/`
-- Automatic locale detection with cookie-based persistence
-- Fallback language: English (en)
+1. **New Routes**: Add file to `app/routes/` and register in `app/routes.ts`
+2. **New UI Components**: Create in `app/components/` (use `app/components/ui/` for Shadcn components)
+3. **New API Endpoints**: Add tRPC procedure in `app/server/trpc/` or create route in `app/routes/api/`
+4. **Database Changes**: Update schema in `app/server/db/schema.ts` and run migrations on D1
+5. **New Translations**: Add keys to translation files in `app/locales/json/`
 
-## Core Features
+### Important Notes
 
-### 1. AI Music Generation
-- Text-to-music generation using Suno API
-- Real-time progress tracking during generation
-- Music playback and download capabilities
-- Task polling system with timeout handling
-
-### 2. Authentication System
-- Google OAuth integration
-- User session management
-- Database integration for user data
-
-### 3. Database Schema
-The application uses several database tables:
-- `users` - User accounts and authentication data
-- `user_tasks` - User's music generation tasks
-- `guest_tasks` - Guest user tasks
-- `credit_records` - User credit transactions
-- `order` - Payment and order records
-
-### 4. API Architecture
-- tRPC for type-safe API calls
-- RESTful endpoints for auth and localization
-- Integration with external music generation APIs
-- Database operations using Kysely query builder
-
-## Routing Structure
-
-The application uses file-based routing with the following structure:
-- `/:locale?` - Optional locale prefix
-- `/` - Home page with music generation interface
-- `/privacy-policy` - Privacy policy page
-- `/terms-and-conditions` - Terms and conditions page
-- `/api/auth/*` - Authentication endpoints
-- `/api/trpc/*` - tRPC endpoints
-- `/api/locales` - Localization data
-- `/api/kie/callback` - Music generation callback
-
-## UI System
-
-- **Design System**: Shadcn/ui + Radix UI components
-- **Styling**: Tailwind CSS v4
-- **Theme**: Supports light/dark themes
-- **Icons**: Lucide React icons
-- **Components**: Reusable UI components in `app/components/ui/`
-
-## Deployment
-
-### Cloudflare Workers Configuration
-- Application deployed globally via Cloudflare Workers
-- D1 database for persistent storage
-- R2 storage for file assets
-- Environment-specific configurations (dev/prod)
-
-### Build Process
-1. Content collections build for markdown files
-2. TypeScript compilation
-3. Vite build for production assets
-4. Cloudflare Workers deployment
-
-## Testing
-
-- Test files located in `tests/` directory
-- Music API testing script available
-- No formal test framework configured
-
-## Important Notes
-
-- The application automatically redirects `/en/` URLs to root paths
-- Music generation uses external API with polling mechanism
-- Guest users can generate music without authentication
-- User credits system for limiting usage
-- Analytics integration (Google Analytics, Plausible, Clarity)
+- SSR is enabled - check for browser-only APIs in components
+- Uses pnpm for package management (not npm/yarn)
+- Port 3000 for dev server (configured in `vite.config.ts`)
+- Content collections require rebuild when markdown changes
+- TypeScript project references used (see `tsconfig.json`)
