@@ -13,8 +13,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "musiceleven",
-			"database_id": "38aaf16f-58f8-442d-8544-2475afea1dfd"
+			"database_name": "example",
+			"database_id": "example-id"
 		},
 	],
 	"env": {
@@ -22,8 +22,8 @@
 			"d1_databases": [
 				{
 					"binding": "DB",
-					"database_name": "musiceleven",
-					"database_id": "38aaf16f-58f8-442d-8544-2475afea1dfd"
+					"database_name": "example",
+					"database_id": "example-id"
 				},
 			],
 			"vars": {
@@ -31,25 +31,25 @@
 				"BETTER_AUTH_URL": "http://localhost:3000",
 				"R2_ACCOUNT_ID": "85cbdce1a1a370e643ca4db01574427c",
 				"R2_ACCESS_KEY_ID": "c4bb0cbee0dddbbcc760464e709c880a",
-				"R2_BUCKET_NAME": "musiceleven",
-				"R2_DOMAIN": "https://i.musiceleven.com",
+				"R2_BUCKET_NAME": "example",
+				"R2_DOMAIN": "https://i.example.com",
 			}
 		},
 		"prod": {
 			"d1_databases": [
 				{
 					"binding": "DB",
-					"database_name": "musiceleven",
-					"database_id": "38aaf16f-58f8-442d-8544-2475afea1dfd"
+					"database_name": "example",
+					"database_id": "example-id"
 				}
 			],
 			"vars": {
 				"GOOGLE_CLIENT_ID": "973185606158-4sbi43cb1r3en1o70cud6hv8nj1s9pb6.apps.googleusercontent.com",
-				"BETTER_AUTH_URL": "https://musiceleven.com",
+				"BETTER_AUTH_URL": "https://example.com",
 				"R2_ACCOUNT_ID": "85cbdce1a1a370e643ca4db01574427c",
 				"R2_ACCESS_KEY_ID": "c4bb0cbee0dddbbcc760464e709c880a",
-				"R2_BUCKET_NAME": "musiceleven",
-				"R2_DOMAIN": "https://i.musiceleven.com",
+				"R2_BUCKET_NAME": "example",
+				"R2_DOMAIN": "https://i.example.com",
 			}
 		}
 	},
