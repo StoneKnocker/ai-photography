@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+date: 2025-01-01
 description: Learn about ElevenMusic AI Music Generator's privacy practices and data protection measures.
 ---
 

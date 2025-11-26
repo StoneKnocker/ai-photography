@@ -1,5 +1,6 @@
 ---
 title: Terms of Service
+date: 2025-01-01
 description: Read terms of service for ElevenMusic AI Music Generator, a studio-quality AI music generation platform
 ---
 
